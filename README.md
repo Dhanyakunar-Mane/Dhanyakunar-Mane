@@ -4,7 +4,8 @@
 
 - 📊 Data Analyst with experience in software operations, deployment analysis, and freelance analytics projects  
 - 🔭 Currently working on **Data Analytics, Business Intelligence, Machine Learning, and Dashboard Development**  
-- 🌱 Learning **Big Data Technologies, Cloud AI Platforms, and Advanced Analytics**  
+- 🌱 Learning **Big Data Technologies, Cloud AI Platforms, and Advanced Analytics**
+- 📫 Reach me: email / LinkedIn / GitHub
 - 📈 Passionate about transforming raw data into actionable business insights  
 - ⚡ Fun fact: I enjoy solving analytical problems and implementing algorithms for fun  
 
